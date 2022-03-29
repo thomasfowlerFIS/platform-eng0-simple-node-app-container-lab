@@ -50,8 +50,6 @@ command line:
 
 The application takes the following image:
 
--------------------------------------------------
-
 <img alt="Max Headroom" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-simple-node-app-container-lab/master/maxheadroom.jpg?raw=true"/>
 
 -------------------------------------------------
@@ -59,7 +57,6 @@ The application takes the following image:
 and converts it to "ASCII art". The output should be similar to the output
 below:
 
--------------------------------------------------
 
 <img alt="Max Headroom ASCII" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-simple-node-app-container-lab/master/maxheadroom_ASCII.png?raw=true"/>
 
