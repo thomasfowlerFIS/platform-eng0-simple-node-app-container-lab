@@ -13,11 +13,17 @@ execute the node application.
 ### **Requirements**
 
 1. Docker container runtime
+
 1. Latest version of `node` installed (e.g. via brew or installed via
 source.)
+
 1. Latest version of `yarn` installed (e.g. via brew or installed via
 source.)
+
 1. Text editor to edit the `dockerfile` containing the node application.
+
+1. Latest version of `Graphicsmagick` installed (e.g. via brew
+or installed via source.)
 
 -------------------------------------------------
 
@@ -38,11 +44,14 @@ from the root directory of application:
 command line:
   `$ yarn start`
 
-The output should be similar to the output below:
+The application takes the following image:
 
-```node
+![Max Headroom](maxheadroom.jpg)
 
-```
+and converts it to "ASCII art". The output should be similar to the output
+below:
+
+![Max Headroom](maxheadroom_ASCII.png)
 
 -------------------------------------------------
 
